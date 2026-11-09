@@ -1,0 +1,6 @@
+Django==5.2.8
+djangorestframework==3.16.1
+psycopg[binary]==3.2.12
+celery[redis]==5.5.3
+gunicorn==23.0.0
+python-json-logger==3.3.0
